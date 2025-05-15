@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime, timedelta
 
-api = "89d73868a3f78ff1e0c25096816234f8"
+api = "xxxxxxxxxxxxxxxxxx"
 weather_history = {}
 
 def celcius_to_kelvin(celsius):
